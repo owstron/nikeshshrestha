@@ -324,6 +324,7 @@ PLATFORMS
 DEPENDENCIES
   csv (~> 3.3)
   hacked-jekyll (~> 3.0)
+  jekyll (= 3.9.5)
 
 BUNDLED WITH
    2.6.5

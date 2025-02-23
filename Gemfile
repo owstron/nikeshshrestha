@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'hacked-jekyll', '~> 3.0'
+gem "jekyll", "= 3.9.5"
 
-gem "csv", "~> 3.3"
+group :jekyll_plugins do
+  gem 'hacked-jekyll', '~> 3.0'
+  gem "csv", "~> 3.3"
+end
