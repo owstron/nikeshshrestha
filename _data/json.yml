@@ -1,0 +1,24 @@
+- key: Name
+  value: Nikesh Shrestha
+- key: Description
+  value:
+    - Hello!
+    - I am a software engineer excited about financial products.
+  typed: true
+- key: Resume
+  value: Nikesh_Shrestha_Resume.pdf
+  url: /assets/pdf/Nikesh_Shrestha_Resume_2025.pdf
+- key: Contact
+  value:
+    - key: Email
+      value: shresthanikesh1074@gmail.com
+      url: "mailto:shresthanikesh1074@gmail.com"
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/nikshrestha
+    - value: GitHub
+      url: https://github.com/owstron
+- key: Theme by
+  value: piazzai/hacked-jekyll
+  url: https://github.com/piazzai/hacked-jekyll

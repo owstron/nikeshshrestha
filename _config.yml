@@ -1,0 +1,23 @@
+title: Nikesh Shrestha
+description: Personal website
+url: https://nikeshshrestha.com
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+
+defaults:
+  - scope:
+      path: "assets/pdf"
+    values:
+      image: true
