@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'hacked-jekyll', git: 'https://github.com/piazzai/hacked-jekyll.git'
+gem 'hacked-jekyll', '~> 3.0'
+
 gem "csv", "~> 3.3"
